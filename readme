@@ -1,0 +1,9 @@
+A little app in Python for generate password-protected.
+
+The Goal is to generate secured password with many criterias.
+The first is to take arguments : the lenth, uppercase, lowercase, numbers and symbol.
+We want a random generation with a algorithm.
+The display must show the password in a Python app ( Tkinter ), 
+with the indication of the security of the password. 
+
+From an idea of [Async](https://itsasync.fr/).
